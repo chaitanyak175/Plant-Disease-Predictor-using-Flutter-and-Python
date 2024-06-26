@@ -1,6 +1,6 @@
 # plant_test
 
-A new Flutter project.
+This app is used to recognise diseases in plants. I have created an API and deployed it on a server which takes requests from this app in the form of an image and in return sends the name of the disease, I have made the code of the API in such a way so that it sends the response in the least amount of time possible.
 
 ## Getting Started
 
