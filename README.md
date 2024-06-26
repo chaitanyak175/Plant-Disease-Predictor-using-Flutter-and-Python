@@ -5,6 +5,7 @@ https://github.com/chaitanyak175/Plant-Disease-Predictor-using-Flutter-and-Pytho
 # Plant Disease Predictor
 
 This app is used to recognise diseases in plants. I have created an API and deployed it on a server which takes requests from this app in the form of an image and in return sends the name of the disease, I have made the code of the API in such a way so that it sends the response in the least amount of time possible.
+This app was built so that I could test the API that I made will try to improve the UI in the future.
 
 ## Getting Started
 
